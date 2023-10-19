@@ -18,4 +18,4 @@
    * Condiția acordării bonusurilor: acumularea a minim 15 răspunsuri corecte pe parcursul semestrului.
 1. prelegere la curs: 5-10 minute la începutul fiecărui curs pe o temă stabilită împreună:
    * 20% bonus/prelegere
-   * maxim 2 prelegeri/student
+   * maxim 2 prelegeri/student 
