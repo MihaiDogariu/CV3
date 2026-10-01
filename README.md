@@ -5,8 +5,8 @@
 
 #### Punctaj (100 pct):
 * 50% laborator: 
-** 10% lucrări de laborator
-** 40% proiect de semestru
+    * 10% lucrări de laborator
+    * 40% proiect de semestru
 * 50% examen final (grilă)
 
 #### Promovare: minim 50% din punctajul total
