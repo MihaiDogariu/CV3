@@ -4,16 +4,10 @@
 #### Contact: Mihai DOGARIU (mihai.dogariu@upb.ro)
 
 #### Punctaj (100 pct):
-* 50% colocviu laborator (săptămâna 14)
-* 50% examen final (sesiune)
+* 50% laborator: 
+** 10% lucrări de laborator
+** 40% proiect de semestru
+* 50% examen final (grilă)
 
 #### Promovare: minim 50% din punctajul total
 
-#### Bonusuri (facultative):
-1. quiz săptămânal: 2-3 întrebări, aproximativ 1 min/întrebare, punctajele se cumulează pe parcursul semestrului. La final de semestru, recompensăm conform unui leaderboard:
-   * Q1: 20% bonus
-   * Q2: 10% bonus
-   * Condiția acordării bonusurilor: acumularea a minim 15 răspunsuri corecte pe parcursul semestrului.
-1. prelegere la curs: 5-10 minute la începutul fiecărui curs pe o temă stabilită împreună:
-   * 10% bonus/prelegere
-   * maxim 2 prelegeri/student 
