@@ -1,0 +1,39 @@
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data, models and outputs
+data/
+datasets/
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.onnx
+runs/
+wandb/
+lightning_logs/
