@@ -37,3 +37,6 @@ datasets/
 runs/
 wandb/
 lightning_logs/
+
+# Local-only solutions (not committed)
+*_solved.ipynb
